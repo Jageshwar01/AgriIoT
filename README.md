@@ -42,6 +42,7 @@ AgriIoT is an end-to-end smart agriculture monitoring system built to solve a re
 
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/0bfd3860-ce91-4e46-bdd1-f229882174a1" />
 
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/9bb515c1-623b-4772-b5d8-b2bd6fa57bf5" />
 
 ---
 
