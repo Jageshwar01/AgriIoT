@@ -143,7 +143,7 @@ flutter run
 ## 👨‍💻 Developer
 
 **Jageshwer Vishwakarma**
-- 🌐 Portfolio: [mydronekart.com](https://mydronekart.com)
+- 🌐 Portfolio: [Jageshwer]([https://mydronekart.com](https://jageshwar01.github.io/Jageshwar/))
 - 💼 LinkedIn: [linkedin.com/in/jageshwar-380b2b257](https://linkedin.com/in/jageshwar-380b2b257/)
 - 🐙 GitHub: [github.com/Jageshwar01](https://github.com/Jageshwar01)
 - 📧 jageshwarkumar15@gmail.com
