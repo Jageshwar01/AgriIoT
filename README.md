@@ -41,12 +41,8 @@ AgriIoT is an end-to-end smart agriculture monitoring system built to solve a re
 ## 🏗️ System Architecture
 
 ```
-[DHT11 Sensor] ────┐
-[Soil Sensor] ─────┤
-                   ├──► [ESP32 Microcontroller] ──► [Firebase Database] ──► [Flutter App]
-[MQ-2 Sensor] ─────┤         │
-[Flame Sensor] ────┘         ├──► [Water Pump Relay]
-                              └──► [Buzzer Alarm]
+<img width="695" height="780" alt="image" src="https://github.com/user-attachments/assets/0bfd3860-ce91-4e46-bdd1-f229882174a1" />
+
 ```
 
 ---
