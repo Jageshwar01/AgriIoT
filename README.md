@@ -74,11 +74,13 @@ AgriIoT is an end-to-end smart agriculture monitoring system built to solve a re
 
 ## 📲 Mobile App Screenshots
 
-![Dashbord](https://github.com/user-attachments/assets/4ec0d3a1-47f0-41da-a66d-60d8c55b994a)
-![Motor_Control](https://github.com/user-attachments/assets/91012604-bf5b-4afd-a922-07ee1c7b7c5b)
-![Graph](https://github.com/user-attachments/assets/3eec3fa9-fd70-464f-8af7-90b9ade6a85e)
-![Motor_Control](https://github.com/user-attachments/assets/0175c621-7ad5-4a5b-b379-b526cdf9ea14)
-![Soil_condition](https://github.com/user-attachments/assets/6cc346d3-cbac-4e87-9aaf-3c69f0d02dfa)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4ec0d3a1-47f0-41da-a66d-60d8c55b994a" width="200"/>
+  <img src="https://github.com/user-attachments/assets/91012604-bf5b-4afd-a922-07ee1c7b7c5b" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3eec3fa9-fd70-464f-8af7-90b9ade6a85e" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0175c621-7ad5-4a5b-b379-b526cdf9ea14" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6cc346d3-cbac-4e87-9aaf-3c69f0d02dfa" width="200"/>
+</p>
 
 ---
 
