@@ -1,4 +1,4 @@
-@@ -1,163 +1,16 @@
+
 # 🌾 AgriIoT – Smart Agriculture Monitoring System
 
 > A fully deployed IoT-based smart farming platform that automates irrigation and provides real-time farm monitoring via a Flutter mobile app. **Live and actively used by real farmers.**
